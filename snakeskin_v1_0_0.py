@@ -4,8 +4,8 @@
 
 Snakeskin improves the MsfVenom user experience by guiding the user through the generation of customized payloads via a menu-driven user interface. It interacts
 with MsfVenom in real time to obtain generic and payload-specific options and their default values. Depending upon the option, the user can add, remove or
-modify its value through either freeform data entry or searchable, paginated submenus. Finally, Snakeskin presents the user the opportunity to learn MsfVenom
-syntax by comparing the MsfVenom command issued at the command prompt to feedback received from MsfVenom.
+modify its value through either freeform data entry or searchable, paginated submenus. Finally, Snakeskin teaches MsfVenom syntax by giving the user the
+opportunity to compare the MsfVenom command issued at the command prompt to feedback received from MsfVenom.
 
 This program is free software. You can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software
 Foundation, either version 3 of the License or (at your option) any later version.
